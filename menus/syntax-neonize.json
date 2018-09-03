@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle syntax-neonize",
+        "command": "syntax-neonize:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "syntax-neonize",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "syntax-neonize:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
