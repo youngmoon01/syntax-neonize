@@ -9,14 +9,14 @@ Important notes:
 ## Screenshots
 The syntax theme used in the screenshots is 'one-dark', which is one of built-in syntax themes of atom.
 
-### Before apply of the package
+### Before apply of neonization
 ![Screenshot](docs/before_neonize.png)
 
-### After apply of the package
+### After apply of neonization
 ![Screenshot](docs/after_neonize.png)
 
 ## Usages
-The *neonization* of syntax theme will be automatically applied after package install.
+The *neonization* will be automatically applied after package install.
 Turn on/off the *neonization* through either the Command Palette or shortcut below.
 
 ## Commands & shortcuts
