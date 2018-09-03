@@ -1,15 +1,13 @@
 {
   "name": "syntax-neonize",
   "main": "./lib/syntax-neonize",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Make your favorite syntax theme glow like neon lights!",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/youngmoon01/syntax-neonize.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
