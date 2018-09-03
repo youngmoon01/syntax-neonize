@@ -10,18 +10,18 @@ Important notes:
 The syntax theme used in the screenshots is 'one-dark', which is one of built-in syntax themes of atom.
 
 ### Before apply of the package
-![Screenshot](before_neonize.png)
+![Screenshot](docs/before_neonize.png)
 
 ### After apply of the package
-![Screenshot](after_neonize.png)
+![Screenshot](docs/after_neonize.png)
 
 ## Usages
 The *neonization* of syntax theme will be automatically applied after package install.
 Turn on/off the *neonization* through either the Command Palette or shortcut below.
 
 ## Commands & shortcuts
-Toggle *neonization* through Command Palette: 'Syntax Neonize: Toggle'
-Toggle *neonization* through shortcut: Ctrl-Alt-Shift-N
+* Toggle *neonization* through Command Palette: 'Syntax Neonize: Toggle'
+* Toggle *neonization* through shortcut: Ctrl-Alt-Shift-N
 
 ## Notes & issues
 * The background color of syntax theme will get darker to maximize glow effect.
