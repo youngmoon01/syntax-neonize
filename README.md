@@ -10,10 +10,10 @@ Important notes:
 The syntax theme used in the screenshots is 'one-dark', which is one of built-in syntax themes of atom.
 
 ### Before apply of neonization
-![before](https://github.com/youngmoon01/syntax-neonize/blob/master/docs/before_neonize.png)
+![Screenshot](https://github.com/youngmoon01/syntax-neonize/blob/master/docs/before_neonize.png)
 
 ### After apply of neonization
-![after](https://github.com/youngmoon01/syntax-neonize/blob/master/docs/after_neonize.png)
+![Screenshot](https://github.com/youngmoon01/syntax-neonize/blob/master/docs/after_neonize.png)
 
 ## Usages
 The *neonization* will be automatically applied after package install.
