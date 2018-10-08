@@ -3,7 +3,8 @@
   "main": "./lib/syntax-neonize",
   "version": "3.1.0",
   "description": "Make your favorite syntax theme glow like neon lights!",
-  "keywords": [],
+  "keywords": ["syntax", "color", "theme", "colortheme", "scheme", "colorscheme",
+		"glow", "glowing", "neon", "neonize", "neonization", "light", "beautiful", "pretty"],
   "repository": "https://github.com/youngmoon01/syntax-neonize.git",
   "license": "MIT",
   "engines": {

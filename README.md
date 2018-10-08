@@ -8,6 +8,7 @@ Important notes:
 
 ## Screenshots
 The syntax theme used in the screenshots is 'one-dark', which is one of built-in syntax themes of atom.
+**You can choose any other syntax theme to be neonized**.
 
 ### Before apply of neonization
 ![Screenshot](https://raw.githubusercontent.com/youngmoon01/syntax-neonize/master/docs/before_neonize.png)
