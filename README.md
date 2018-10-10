@@ -16,6 +16,8 @@ The syntax theme used in the screenshots is 'one-dark', which is one of built-in
 ### After apply of neonization
 ![Screenshot](https://raw.githubusercontent.com/youngmoon01/syntax-neonize/master/docs/after_neonize.png)
 
+(Captured images have slightly different sizes in pixels. There is no font/size/scale difference after neonization.)
+
 ## Usages
 The *neonization* will be automatically applied after package install.
 Turn on/off the *neonization* through either the Command Palette or shortcut below.
